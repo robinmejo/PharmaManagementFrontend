@@ -11,11 +11,14 @@ File: scss
 *******************/
 mat-toolbar{
     box-shadow: 1px 0px 10px rgba(0, 0, 0, 0.5);
+    
     &.topbar{
         padding: 0px 15px;
+        
     }
     .navbar-header {
         text-align: center;
+        background-color: #276085;
         .navbar-brand {
             display: flex;
             line-height: 18px;
